@@ -1,5 +1,5 @@
 # JPMorgan-Chase-Software-Engineering-Virtual-Experience
-vitual internship under JPMorgan
+This is a vitual internship under JPMorgan
 JPMorgan Chase has traders in all the major financial centers and creates a marketplace for asset classes around the globe for our investor clients. Trading teams are organized by asset class:
 
 Equities (stocks)
@@ -15,4 +15,4 @@ In order to do this,  i set up my system so i can interface with the relevant fi
 
 The visualization of charts and data analysis our trader’s see is all built on JPMorgan Chase's own open sourced software called Perspective. i learned how to implement this to facilitate the trader’s requested changes and deliver actionable insights.
 
-i  gained an understanding of the user requirements and then build something that meets those requirements
+I gained an understanding of the user requirements and then build something that meets those requirements
